@@ -9,7 +9,7 @@ begin
 begin
 begin
 begin
-  foo
+  fooaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 rescue
 end
   foo
@@ -21,3 +21,14 @@ end
   foo
 rescue
 end
+a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
