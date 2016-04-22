@@ -20,6 +20,9 @@ rescue
 end
   foo
 a =     'b'
+a =     'b'
+a =     'b'
+a =     'b'
 rescue
 end
 a =     'b'
