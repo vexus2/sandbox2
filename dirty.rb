@@ -19,6 +19,7 @@ end
 rescue
 end
   foo
+a =     'b'
 rescue
 end
 a =     'b'
